@@ -35,16 +35,13 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "
-╭━━╮╱╱╭╮╱╱╭━╮
-┃╭╮┣━╮┃╰┳┳┫━╋━┳┳╮
-┃╭╮┃╋╰┫╋┃┃┣━┃┻╋┃┫
-╰━━┻━━┻━╋╮┣━┻━┻┻╯
-╱╱╱╱╱╱╱╱╰━╯\n\n Haii {first}\nNih link bokepnya."
+      "value": "",
+      "required": false
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Tunggu {first}\n\n<b>Kamu harus join channel dan grup dulu"
+      "value": "",
+      "required": false
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
