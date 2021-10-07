@@ -33,7 +33,7 @@ START_MSG = os.environ.get("START_MESSAGE", "
 ╰━━┻━━┻━╋╮┣━┻━┻┻╯
 ╱╱╱╱╱╱╱╱╰━╯\
 
-\nHaii {first}\nNih link bokepnya.")
+Haii {first}\nNih link bokepnya.")
 try:
     ADMINS=[]
     for x in (os.environ.get("ADMINS", "").split()):
