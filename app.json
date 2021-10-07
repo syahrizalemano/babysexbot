@@ -40,7 +40,7 @@
 ┃╭╮┣━╮┃╰┳┳┫━╋━┳┳╮
 ┃╭╮┃╋╰┫╋┃┃┣━┃┻╋┃┫
 ╰━━┻━━┻━╋╮┣━┻━┻┻╯
-╱╱╱╱╱╱╱╱╰━╯\n\n Haii {first}\n\Nih link bokepnya."
+╱╱╱╱╱╱╱╱╰━╯\n\n Haii {first}\nNih link bokepnya."
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
