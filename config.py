@@ -31,7 +31,7 @@ START_MSG = os.environ.get("START_MESSAGE", "
 ┃╭╮┣━╮┃╰┳┳┫━╋━┳┳╮
 ┃╭╮┃╋╰┫╋┃┃┣━┃┻╋┃┫
 ╰━━┻━━┻━╋╮┣━┻━┻┻╯
-╱╱╱╱╱╱╱╱╰━╯\n
+╱╱╱╱╱╱╱╱╰━╯\
 Haii {first}\nNih link bokepnya.")
 try:
     ADMINS=[]
