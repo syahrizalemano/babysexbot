@@ -27,10 +27,11 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #start message
 START_MSG = os.environ.get("START_MESSAGE", 
-"╭━━╮╱╱╭╮╱╱╭━╮
- ┃╭╮┣━╮┃╰┳┳┫━╋━┳┳╮
- ┃╭╮┃╋╰┫╋┃┃┣━┃┻╋┃┫
- ╰━━┻━━┻━╋╮┣━┻━┻┻╯
+"
+╭━━╮╱╱╭╮╱╱╭━╮
+┃╭╮┣━╮┃╰┳┳┫━╋━┳┳╮
+┃╭╮┃╋╰┫╋┃┃┣━┃┻╋┃┫
+╰━━┻━━┻━╋╮┣━┻━┻┻╯
 ╱╱╱╱╱╱╱╱╰━╯
 
 \n{first}\nNih link bokepnya.")
